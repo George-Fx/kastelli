@@ -56,23 +56,26 @@
       ]
     },
     {
-      "id": "2",
-      "name": "Denim Shorts",
-      "price": 54.96,
-      "old_price": 76,
-      "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
+      "id": 2,
+      "name": "Shor summer dress",
+      "price": 129.0,
+      "old_price": 150.0,
+      "image": "https://george-fx.github.io/kastelli/products/02.jpg",
+      "images": [
+        "https://george-fx.github.io/kastelli/products/02.jpg",
+        "https://george-fx.github.io/kastelli/products/02.jpg",
+        "https://george-fx.github.io/kastelli/products/02.jpg"
+      ],
+      "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
       "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
       "colors": ["carrot", "blue", "beige", "purple", "black"],
       "categories": ["Sport"],
-      "rating": "5",
-      "images": [
-        "https://george-fx.github.io/manero-api/resources/products/02.png",
-        "https://george-fx.github.io/manero-api/resources/products/02.png",
-        "https://george-fx.github.io/manero-api/resources/products/02.png"
-      ],
-      "is_bestseller": false,
-      "is_sale": true,
+      "rating": 5,
+      "is_bestseller": true,
       "is_featured": true,
+      "is_sale": false,
+      "is_top": false,
+      "is_new": false,
       "reviews": [
         {
           "id": 1,
