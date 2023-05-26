@@ -1,71 +1,57 @@
 {
   "products": [
     {
-      "id": "1",
-      "name": "Black Sneakers",
+      "id": 1,
+      "name": "Warm winter hat",
+      "price": 12.7,
       "image": "https://george-fx.github.io/kastelli/products/01.jpg",
-      "price": 120.0,
-      "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
-      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-      "colors": ["carrot", "blue", "beige", "purple", "black"],
-      "categories": ["Men"],
-      "rating": "5",
       "images": [
         "https://george-fx.github.io/kastelli/products/01.jpg",
         "https://george-fx.github.io/kastelli/products/01.jpg",
         "https://george-fx.github.io/kastelli/products/01.jpg"
       ],
+      "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "colors": ["carrot", "blue", "beige", "purple", "black"],
+      "categories": ["Men"],
+      "rating": 5,
       "is_bestseller": true,
+      "is_featured": true,
       "is_sale": false,
-      "is_featured": false,
+      "is_top": false,
+      "is_new": false,
       "reviews": [
         {
           "id": 1,
-          "name": "Cameron Williamson",
-          "image": "https://dl.dropbox.com/s/r7bjkzbi27g5sh3/01.png?dl=0",
-          "comment": "Vel provident distinctio consequatur. Totam aut enim ea eligendi maxime. Quia perspiciatis in quia expedita beatae. Cupiditate provident tempore illum sunt sint ea. Enim quisquam in cum quibusdam.",
-          "rating": 4,
-          "created_at": "2022-08-20"
+          "name": "Adrianna Mercado",
+          "image": "https://george-fx.github.io/funiq/resources/reviews/01.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
         },
         {
           "id": 2,
-          "name": "Theresa Webb",
-          "image": "https://dl.dropbox.com/s/ohmt9lw6bov5l9o/02.png?dl=0",
-          "comment": "Aliquam laboriosam voluptates et dignissimos veritatis. Ut aut distinctio ipsam ea voluptatem. Sunt omnis id qui laudantium dolor et. Aut temporibus minus consectetur qui dolores architecto dicta.",
-          "rating": 2,
-          "created_at": "2022-08-20"
+          "name": "Dante Valdez",
+          "image": "https://george-fx.github.io/funiq/resources/reviews/02.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
         },
         {
           "id": 3,
-          "name": "Marvin McKinney",
-          "image": "https://dl.dropbox.com/s/nxlpvlywtjrnsk0/03.png?dl=0",
-          "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-          "rating": 3,
-          "created_at": "2022-08-20"
+          "name": "Troy Ingram",
+          "image": "https://george-fx.github.io/funiq/resources/reviews/03.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
         },
         {
           "id": 4,
-          "name": "Jacob Jones",
-          "image": "https://dl.dropbox.com/s/1ssp4m6b34t517c/04.png?dl=0",
-          "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-          "rating": 3,
-          "created_at": "2022-08-20"
-        },
-        {
-          "id": 5,
-          "name": "Annette Black",
-          "image": "https://dl.dropbox.com/s/30s8rlhufwmwecj/05.png?dl=0",
-          "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
-          "rating": 3,
-          "created_at": "2022-08-20"
-        },
-        {
-          "id": 6,
-          "name": "Jenny Wilson",
-          "image": "https://dl.dropbox.com/s/956bnp6u5v35wkt/06.png?dl=0",
-          "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
+          "name": "Joshua Bean",
+          "image": "https://george-fx.github.io/funiq/resources/reviews/04.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
-          "created_at": "2022-08-20"
+          "date": "23 Jan"
         }
       ]
     },
