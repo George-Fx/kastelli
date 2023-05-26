@@ -3,6 +3,7 @@
     {
       "id": "1",
       "name": "Black Sneakers",
+      "image": "https://george-fx.github.io/kastelli/products/01.jpg",
       "price": 120.0,
       "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
       "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
@@ -10,9 +11,9 @@
       "categories": ["Men"],
       "rating": "5",
       "images": [
-        "https://george-fx.github.io/manero-api/resources/products/01.png",
-        "https://george-fx.github.io/manero-api/resources/products/01.png",
-        "https://george-fx.github.io/manero-api/resources/products/01.png"
+        "https://george-fx.github.io/kastelli/products/01.jpg",
+        "https://george-fx.github.io/kastelli/products/01.jpg",
+        "https://george-fx.github.io/kastelli/products/01.jpg"
       ],
       "is_bestseller": true,
       "is_sale": false,
