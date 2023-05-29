@@ -129,7 +129,7 @@
         "https://george-fx.github.io/kastelli/products/03.jpg",
         "https://george-fx.github.io/kastelli/products/03.jpg"
       ],
-      "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
+      "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
       "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
       "colors": ["carrot", "blue", "beige", "purple", "black"],
       "categories": ["Sport"],
@@ -211,9 +211,11 @@
         "https://george-fx.github.io/manero-api/resources/products/04.png",
         "https://george-fx.github.io/manero-api/resources/products/04.png"
       ],
-      "is_bestseller": false,
-      "is_sale": false,
+      "is_bestseller": true,
       "is_featured": true,
+      "is_sale": true,
+      "is_top": false,
+      "is_new": false,
       "reviews": [
         {
           "id": 1,
