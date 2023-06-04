@@ -368,8 +368,8 @@
     },
     {
       "id": 8,
-      "name": "Warm Hat",
-      "price": 6.93,
+      "name": "Warm winter hat",
+      "price": 8.6,
       "image": "https://george-fx.github.io/kastelli/products/08.jpg",
       "images": [
         "https://george-fx.github.io/kastelli/products/08.jpg",
@@ -422,6 +422,7 @@
       "id": 9,
       "name": "Summer beach hat",
       "price": 24.5,
+      "old_price": 38.00,
       "image": "https://george-fx.github.io/kastelli/products/09.jpg",
       "images": [
         "https://george-fx.github.io/kastelli/products/09.jpg",
