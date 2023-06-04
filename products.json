@@ -340,17 +340,17 @@
       "id": 6,
       "name": "Summer Dress",
       "price": 42.89,
-      "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
+      "image": "https://george-fx.github.io/kastelli/products/05.jpg",
+      "images": [
+        "https://george-fx.github.io/kastelli/products/05.jpg",
+        "https://george-fx.github.io/kastelli/products/05.jpg",
+        "https://george-fx.github.io/kastelli/products/05.jpg"
+      ],
+      "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
       "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
       "colors": ["carrot", "blue", "beige", "purple", "black"],
       "categories": ["Sport"],
-      "rating": "5",
-      "image": "https://dl.dropbox.com/s/w4p70q0h4780ljl/06.png?dl=0",
-      "images": [
-        "https://george-fx.github.io/manero-api/resources/products/06.png",
-        "https://george-fx.github.io/manero-api/resources/products/06.png",
-        "https://george-fx.github.io/manero-api/resources/products/06.png"
-      ],
+      "rating": 5,
       "is_bestseller": false,
       "is_sale": false,
       "is_featured": true,
@@ -409,17 +409,17 @@
       "id": 7,
       "name": "T-Shirt",
       "price": 12.95,
+      "image": "https://george-fx.github.io/kastelli/products/05.jpg",
+      "images": [
+        "https://george-fx.github.io/kastelli/products/05.jpg",
+        "https://george-fx.github.io/kastelli/products/05.jpg",
+        "https://george-fx.github.io/kastelli/products/05.jpg"
+      ],
       "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
       "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
       "colors": ["carrot", "blue", "beige", "purple", "black"],
       "categories": ["Sport"],
-      "rating": "5",
-      "image": "https://dl.dropbox.com/s/pa7egeq106uku51/07.png?dl=0",
-      "images": [
-        "https://george-fx.github.io/manero-api/resources/products/07.png",
-        "https://george-fx.github.io/manero-api/resources/products/07.png",
-        "https://george-fx.github.io/manero-api/resources/products/07.png"
-      ],
+      "rating": 5,
       "is_bestseller": true,
       "is_sale": false,
       "is_featured": false,
@@ -470,17 +470,17 @@
       "id": 8,
       "name": "Warm Hat",
       "price": 6.93,
+      "image": "https://george-fx.github.io/kastelli/products/08.jpg",
+      "images": [
+        "https://george-fx.github.io/kastelli/products/08.jpg",
+        "https://george-fx.github.io/kastelli/products/08.jpg",
+        "https://george-fx.github.io/kastelli/products/08.jpg"
+      ],
       "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
       "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
       "colors": ["carrot", "blue", "beige", "purple", "black"],
       "categories": ["Sport"],
-      "rating": "5",
-      "image": "https://dl.dropbox.com/s/vvzqi4ufun5ino1/08.png?dl=0",
-      "images": [
-        "https://george-fx.github.io/manero-api/resources/products/08.png",
-        "https://george-fx.github.io/manero-api/resources/products/08.png",
-        "https://george-fx.github.io/manero-api/resources/products/08.png"
-      ],
+      "rating": 5,
       "is_bestseller": false,
       "is_sale": false,
       "is_featured": true,
@@ -523,17 +523,17 @@
       "id": 9,
       "name": "Warm Hat",
       "price": 6.93,
+      "image": "https://george-fx.github.io/kastelli/products/09.jpg",
+      "images": [
+        "https://george-fx.github.io/kastelli/products/09.jpg",
+        "https://george-fx.github.io/kastelli/products/09.jpg",
+        "https://george-fx.github.io/kastelli/products/09.jpg"
+      ],
       "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
       "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
       "colors": ["carrot", "blue", "beige", "purple", "black"],
       "categories": ["Sport"],
-      "rating": "5",
-      "image": "https://dl.dropbox.com/s/vvzqi4ufun5ino1/08.png?dl=0",
-      "images": [
-        "https://george-fx.github.io/manero-api/resources/products/08.png",
-        "https://george-fx.github.io/manero-api/resources/products/08.png",
-        "https://george-fx.github.io/manero-api/resources/products/08.png"
-      ],
+      "rating": 5,
       "is_bestseller": false,
       "is_sale": false,
       "is_featured": true,
@@ -574,19 +574,19 @@
     },
     {
       "id": 10,
-      "name": "Warm Hat",
-      "price": 6.93,
+      "name": "Small leather backpack",
+      "price": 167.5,
+      "image": "https://george-fx.github.io/kastelli/products/10.jpg",
+      "images": [
+        "https://george-fx.github.io/kastelli/products/10.jpg",
+        "https://george-fx.github.io/kastelli/products/10.jpg",
+        "https://george-fx.github.io/kastelli/products/10.jpg"
+      ],
       "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
       "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
       "colors": ["carrot", "blue", "beige", "purple", "black"],
       "categories": ["Sport"],
-      "rating": "5",
-      "image": "https://dl.dropbox.com/s/vvzqi4ufun5ino1/08.png?dl=0",
-      "images": [
-        "https://george-fx.github.io/manero-api/resources/products/08.png",
-        "https://george-fx.github.io/manero-api/resources/products/08.png",
-        "https://george-fx.github.io/manero-api/resources/products/08.png"
-      ],
+      "rating": 5,
       "is_bestseller": false,
       "is_sale": false,
       "is_featured": true,
