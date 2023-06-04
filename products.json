@@ -132,7 +132,7 @@
       "rating": "5",
       "is_bestseller": true,
       "is_featured": true,
-      "is_sale": true,
+      "is_sale": false,
       "reviews": [
         {
           "id": 1,
@@ -294,7 +294,7 @@
       "rating": "5",
       "is_bestseller": true,
       "is_featured": true,
-      "is_sale": true,
+      "is_sale": false,
       "reviews": [
         {
           "id": 1,
@@ -416,7 +416,7 @@
       "rating": 5,
       "is_bestseller": true,
       "is_featured": true,
-      "is_sale": true,
+      "is_sale": false,
       "reviews": [
         {
           "id": 1,
@@ -477,7 +477,7 @@
       "rating": 5,
       "is_bestseller": true,
       "is_featured": true,
-      "is_sale": true,
+      "is_sale": false,
       "reviews": [
         {
           "id": 1,
@@ -583,7 +583,7 @@
       "rating": 5,
       "is_bestseller": true,
       "is_featured": true,
-      "is_sale": true,
+      "is_sale": false,
       "reviews": [
         {
           "id": 1,
@@ -636,7 +636,7 @@
       "rating": 5,
       "is_bestseller": true,
       "is_featured": true,
-      "is_sale": true,
+      "is_sale": false,
       "reviews": [
         {
           "id": 1,
@@ -689,7 +689,7 @@
       "rating": 5,
       "is_bestseller": true,
       "is_featured": true,
-      "is_sale": true,
+      "is_sale": false,
       "reviews": [
         {
           "id": 1,
