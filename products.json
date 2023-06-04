@@ -521,15 +521,15 @@
     },
     {
       "id": 9,
-      "name": "Warm Hat",
-      "price": 6.93,
+      "name": "Summer beach hat",
+      "price": 24.5,
       "image": "https://george-fx.github.io/kastelli/products/09.jpg",
       "images": [
         "https://george-fx.github.io/kastelli/products/09.jpg",
         "https://george-fx.github.io/kastelli/products/09.jpg",
         "https://george-fx.github.io/kastelli/products/09.jpg"
       ],
-      "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
+      "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
       "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
       "colors": ["carrot", "blue", "beige", "purple", "black"],
       "categories": ["Sport"],
