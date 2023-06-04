@@ -2,20 +2,20 @@
   "carousel": [
     {
       "id": 1,
-      "titleLine1": "Welcome to Unimor!",
-      "titleLine2": "50% off",
+      "titleLine1": "Black Friday sale!",
+      "titleLine2": "Save up to 25%",
       "image": "https://george-fx.github.io/kastelli/carousel/01.jpg"
     },
     {
       "id": 2,
-      "titleLine1": "Welcome to Unimor!",
-      "titleLine2": "50% off",
+      "titleLine1": "Black Friday sale!",
+      "titleLine2": "Save up to 25%",
       "image": "https://george-fx.github.io/kastelli/carousel/01.jpg"
     },
     {
       "id": 3,
-      "titleLine1": "Welcome to Unimor!",
-      "titleLine2": "50% off",
+      "titleLine1": "Black Friday sale!",
+      "titleLine2": "Save up to 25%",
       "image": "https://george-fx.github.io/kastelli/carousel/01.jpg"
     }
   ]
