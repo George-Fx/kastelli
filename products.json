@@ -396,15 +396,15 @@
     },
     {
       "id": 7,
-      "name": "T-Shirt",
-      "price": 12.95,
+      "name": "Long sleeve shirt",
+      "price": 76.0,
       "image": "https://george-fx.github.io/kastelli/products/07.jpg",
       "images": [
         "https://george-fx.github.io/kastelli/products/07.jpg",
         "https://george-fx.github.io/kastelli/products/07.jpg",
         "https://george-fx.github.io/kastelli/products/07.jpg"
       ],
-      "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
+      "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
       "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
        "colors": ["champagne", "paleCerulean", "opal", "camel", "squidInk"],
       "rating": 5,
@@ -464,7 +464,7 @@
         "https://george-fx.github.io/kastelli/products/08.jpg",
         "https://george-fx.github.io/kastelli/products/08.jpg"
       ],
-      "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
+      "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
       "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
        "colors": ["champagne", "paleCerulean", "opal", "camel", "squidInk"],
       "rating": 5,
@@ -568,7 +568,7 @@
         "https://george-fx.github.io/kastelli/products/10.jpg",
         "https://george-fx.github.io/kastelli/products/10.jpg"
       ],
-      "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
+      "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
       "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
        "colors": ["champagne", "paleCerulean", "opal", "camel", "squidInk"],
       "rating": 5,
@@ -672,7 +672,7 @@
         "https://george-fx.github.io/kastelli/products/12.jpg",
         "https://george-fx.github.io/kastelli/products/12.jpg"
       ],
-      "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
+      "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
       "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
        "colors": ["champagne", "paleCerulean", "opal", "camel", "squidInk"],
       "rating": 5,
