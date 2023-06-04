@@ -197,20 +197,20 @@
       ]
     },
     {
-      "id": "4",
-      "name": "Purple Sneakers",
-      "price": 22.87,
-      "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
+      "id": 4,
+      "name": "Long summer skirt",
+      "price": 59.0,
+      "image": "https://george-fx.github.io/kastelli/products/04.jpg",
+      "images": [
+        "https://george-fx.github.io/kastelli/products/04.jpg",
+        "https://george-fx.github.io/kastelli/products/04.jpg",
+        "https://george-fx.github.io/kastelli/products/04.jpg"
+      ],
+      "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
       "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
       "colors": ["carrot", "blue", "beige", "purple", "black"],
       "categories": ["Sport"],
-      "rating": "5",
-      "image": "https://dl.dropbox.com/s/1jv4suu79ax10bs/04.png?dl=0",
-      "images": [
-        "https://george-fx.github.io/manero-api/resources/products/04.png",
-        "https://george-fx.github.io/manero-api/resources/products/04.png",
-        "https://george-fx.github.io/manero-api/resources/products/04.png"
-      ],
+      "rating": 5,
       "is_bestseller": true,
       "is_featured": true,
       "is_sale": true,
@@ -284,21 +284,20 @@
       ]
     },
     {
-      "id": "5",
-      "name": "Summer Dress",
-      "price": 44.65,
-      "old_price": 90,
-      "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
+      "id": 5,
+      "name": "Summer shorts",
+      "price": 39.6,
+      "image": "https://george-fx.github.io/kastelli/products/05.jpg",
+      "images": [
+        "https://george-fx.github.io/kastelli/products/05.jpg",
+        "https://george-fx.github.io/kastelli/products/05.jpg",
+        "https://george-fx.github.io/kastelli/products/05.jpg"
+      ],
+      "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
       "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
       "colors": ["carrot", "blue", "beige", "purple", "black"],
       "categories": ["Sport"],
       "rating": "5",
-      "image": "https://dl.dropbox.com/s/r4lhjbptsgr14jr/05.png?dl=0",
-      "images": [
-        "https://george-fx.github.io/manero-api/resources/products/05.png",
-        "https://george-fx.github.io/manero-api/resources/products/05.png",
-        "https://george-fx.github.io/manero-api/resources/products/05.png"
-      ],
       "is_bestseller": true,
       "is_sale": true,
       "is_featured": false,
