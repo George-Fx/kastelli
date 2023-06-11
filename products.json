@@ -326,7 +326,7 @@
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-       "colors": ["champagne", "paleCerulean", "opal", "camel", "squidInk"],
+       "colors": ["champagne", "paleCerulean", "opal", "camel", "squidInk", "red"],
        "rating": 5.0,
       "is_bestseller": false,
       "is_featured": true,
