@@ -1,0 +1,46 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Dresses",
+            "image": "https://george-fx.github.io/manero/assets/categories/01.jpg",
+            "tags": [
+                "Women"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Pants",
+            "image": "https://george-fx.github.io/manero/assets/categories/02.jpg",
+            "tags": [
+                "Men"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Accessories",
+            "image": "https://george-fx.github.io/manero/assets/categories/03.jpg",
+            "tags": [
+                "Men",
+                "Women"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Shoes",
+            "image": "https://george-fx.github.io/manero/assets/categories/04.jpg",
+            "tags": [
+                "Men"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "T-shirts",
+            "image": "https://george-fx.github.io/manero/assets/categories/05.jpg",
+            "tags": [
+                "Men",
+                "Kids"
+            ]
+        }
+    ]
+}
