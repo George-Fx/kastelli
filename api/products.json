@@ -30,9 +30,9 @@
         "skirt"
       ],
       "rating": 5.0,
-      "is_bestseller": true,
-      "is_featured": false,
-      "is_sale": false,
+      "isBestseller": true,
+      "isFeatured": false,
+      "isSale": false,
       "reviews": [
         {
           "id": 1,
@@ -99,9 +99,9 @@
         "skirt"
       ],
       "rating": 5.0,
-      "is_bestseller": true,
-      "is_featured": false,
-      "is_sale": true,
+      "isBestseller": true,
+      "isFeatured": false,
+      "isSale": true,
       "reviews": [
         {
           "id": 1,
@@ -167,9 +167,9 @@
         "skirt"
       ],
       "rating": 5.0,
-      "is_bestseller": true,
-      "is_featured": false,
-      "is_sale": false,
+      "isBestseller": true,
+      "isFeatured": false,
+      "isSale": false,
       "reviews": [
         {
           "id": 1,
@@ -235,9 +235,9 @@
         "skirt"
       ],
       "rating": 5.0,
-      "is_bestseller": true,
-      "is_featured": false,
-      "is_sale": true,
+      "isBestseller": true,
+      "isFeatured": false,
+      "isSale": true,
       "reviews": [
         {
           "id": 1,
@@ -303,9 +303,9 @@
         "skirt"
       ],
       "rating": 5.0,
-      "is_bestseller": true,
-      "is_featured": false,
-      "is_sale": false,
+      "isBestseller": true,
+      "isFeatured": false,
+      "isSale": false,
       "reviews": [
         {
           "id": 1,
@@ -372,9 +372,9 @@
         "skirt"
       ],
       "rating": 5.0,
-      "is_bestseller": true,
-      "is_featured": false,
-      "is_sale": true,
+      "isBestseller": true,
+      "isFeatured": false,
+      "isSale": true,
       "reviews": [
         {
           "id": 1,
@@ -440,9 +440,9 @@
         "skirt"
       ],
       "rating": 5.0,
-      "is_bestseller": false,
-      "is_featured": true,
-      "is_sale": false,
+      "isBestseller": false,
+      "isFeatured": true,
+      "isSale": false,
       "reviews": [
         {
           "id": 1,
@@ -508,9 +508,9 @@
         "skirt"
       ],
       "rating": 5.0,
-      "is_bestseller": false,
-      "is_featured": true,
-      "is_sale": false,
+      "isBestseller": false,
+      "isFeatured": true,
+      "isSale": false,
       "reviews": [
         {
           "id": 1,
@@ -577,9 +577,9 @@
         "skirt"
       ],
       "rating": 5.0,
-      "is_bestseller": false,
-      "is_featured": true,
-      "is_sale": true,
+      "isBestseller": false,
+      "isFeatured": true,
+      "isSale": true,
       "reviews": [
         {
           "id": 1,
@@ -645,9 +645,9 @@
         "skirt"
       ],
       "rating": 5.0,
-      "is_bestseller": false,
-      "is_featured": true,
-      "is_sale": false,
+      "isBestseller": false,
+      "isFeatured": true,
+      "isSale": false,
       "reviews": [
         {
           "id": 1,
@@ -713,9 +713,9 @@
       ],
       "colors": ["champagne", "paleCerulean", "opal", "camel", "squidInk"],
       "rating": 5.0,
-      "is_bestseller": false,
-      "is_featured": true,
-      "is_sale": false,
+      "isBestseller": false,
+      "isFeatured": true,
+      "isSale": false,
       "reviews": [
         {
           "id": 1,
@@ -781,9 +781,9 @@
         "skirt"
       ],
       "rating": 5.0,
-      "is_bestseller": false,
-      "is_featured": true,
-      "is_sale": false,
+      "isBestseller": false,
+      "isFeatured": true,
+      "isSale": false,
       "reviews": [
         {
           "id": 1,
