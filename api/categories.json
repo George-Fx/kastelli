@@ -4,52 +4,37 @@
             "id": 1,
             "name": "Men",
             "image": "https://george-fx.github.io/kastelli/assets/categories/01.jpg",
-            "tags": [
-                "Women"
-            ]
+            "qty": 36
         },
         {
             "id": 2,
             "name": "Women",
             "image": "https://george-fx.github.io/kastelli/assets/categories/02.jpg",
-            "tags": [
-                "Men"
-            ]
+            "qty": 621
         },
         {
             "id": 3,
             "name": "Kids",
             "image": "https://george-fx.github.io/kastelli/assets/categories/03.jpg",
-            "tags": [
-                "Men",
-                "Women"
-            ]
+            "qty": 112
         },
         {
             "id": 4,
             "name": "Sport",
             "image": "https://george-fx.github.io/kastelli/assets/categories/04.jpg",
-            "tags": [
-                "Men"
-            ]
+            "qty": 150
         },
         {
             "id": 5,
             "name": "Accessories",
             "image": "https://george-fx.github.io/kastelli/assets/categories/05.jpg",
-            "tags": [
-                "Men",
-                "Kids"
-            ]
+            "qty": 54
         },
         {
             "id": 6,
             "name": "Decor",
             "image": "https://george-fx.github.io/kastelli/assets/categories/06.jpg",
-            "tags": [
-                "Men",
-                "Kids"
-            ]
+            "qty": 98
         }
     ]
 }
