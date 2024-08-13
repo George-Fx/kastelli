@@ -41,6 +41,15 @@
                 "Men",
                 "Kids"
             ]
+        },
+        {
+            "id": 6,
+            "name": "T-shirts",
+            "image": "https://george-fx.github.io/kastelli/assets/categories/06.jpg",
+            "tags": [
+                "Men",
+                "Kids"
+            ]
         }
     ]
 }
