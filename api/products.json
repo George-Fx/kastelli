@@ -1,0 +1,443 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Black Sneakers",
+      "price": 120.0,
+      "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        {
+          "id": 1,
+          "name": "pastel red",
+          "code": "#FF6262"
+        },
+        {
+          "id": 2,
+          "name": "maya blue",
+          "code": "#63C7FF"
+        },
+        {
+          "id": 3,
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "id": 4,
+          "name": "dark byzantine blue",
+          "code": "#323858"
+        },
+        {
+          "id": 5,
+          "name": "smoky black",
+          "code": "#111111"
+        }
+      ],
+      "category": ["shoes"],
+      "tags": ["men, shoes"],
+      "rating": "5",
+      "images": [
+        "https://george-fx.github.io/manero/resources/products/01.png",
+        "https://george-fx.github.io/manero/resources/products/01.png",
+        "https://george-fx.github.io/manero/resources/products/01.png"
+      ],
+      "promotion": "Take 50% off now!",
+      "isBestseller": true,
+      "isFeatured": false
+    },
+    {
+      "id": "2",
+      "name": "Denim Shorts",
+      "price": 54.96,
+      "oldPrice": 76,
+      "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        {
+          "id": 1,
+          "name": "pastel red",
+          "code": "#FF6262"
+        },
+        {
+          "id": 2,
+          "name": "maya blue",
+          "code": "#63C7FF"
+        },
+        {
+          "id": 3,
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "id": 4,
+          "name": "dark byzantine blue",
+          "code": "#323858"
+        },
+        {
+          "id": 5,
+          "name": "smoky black",
+          "code": "#111111"
+        }
+      ],
+      "category": ["pants"],
+      "tags": ["men"],
+      "rating": "5",
+      "images": [
+        "https://george-fx.github.io/manero/resources/products/02.png",
+        "https://george-fx.github.io/manero/resources/products/02.png",
+        "https://george-fx.github.io/manero/resources/products/02.png"
+      ],
+      "promotion": "50% off",
+      "isBestseller": false,
+      "isFeatured": true,
+      "isNew": false,
+      "isTop": true
+    },
+    {
+      "id": "3",
+      "name": "Hand Bag",
+      "price": 24.95,
+      "oldPrice": 76,
+      "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        {
+          "id": 1,
+          "name": "pastel red",
+          "code": "#FF6262"
+        },
+        {
+          "id": 2,
+          "name": "maya blue",
+          "code": "#63C7FF"
+        },
+        {
+          "id": 3,
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "id": 4,
+          "name": "dark byzantine blue",
+          "code": "#323858"
+        },
+        {
+          "id": 5,
+          "name": "smoky black",
+          "code": "#111111"
+        }
+      ],
+      "category": ["accessories"],
+      "tags": ["men, accessories"],
+      "rating": "5",
+      "image": "https://dl.dropbox.com/s/252twzwl5hv96mi/03.png?dl=0",
+      "images": [
+        "https://george-fx.github.io/manero/resources/products/03.png",
+        "https://george-fx.github.io/manero/resources/products/03.png",
+        "https://george-fx.github.io/manero/resources/products/03.png"
+      ],
+      "promotion": "Take 50% off now!",
+      "isBestseller": true,
+      "isFeatured": false,
+      "isNew": true,
+      "isTop": false
+    },
+    {
+      "id": "4",
+      "name": "Purple Sneakers",
+      "price": 22.87,
+      "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        {
+          "id": 1,
+          "name": "pastel red",
+          "code": "#FF6262"
+        },
+        {
+          "id": 2,
+          "name": "maya blue",
+          "code": "#63C7FF"
+        },
+        {
+          "id": 3,
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "id": 4,
+          "name": "dark byzantine blue",
+          "code": "#323858"
+        },
+        {
+          "id": 5,
+          "name": "smoky black",
+          "code": "#111111"
+        }
+      ],
+      "category": ["shoes"],
+      "tags": ["men"],
+      "rating": "5",
+      "image": "https://dl.dropbox.com/s/1jv4suu79ax10bs/04.png?dl=0",
+      "images": [
+        "https://george-fx.github.io/manero/resources/products/04.png",
+        "https://george-fx.github.io/manero/resources/products/04.png",
+        "https://george-fx.github.io/manero/resources/products/04.png"
+      ],
+      "promotion": "50% off",
+      "isBestseller": false,
+      "isFeatured": true,
+      "isNew": false,
+      "isTop": true
+    },
+    {
+      "id": "5",
+      "name": "Summer Dress",
+      "price": 44.65,
+      "oldPrice": 90,
+      "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        {
+          "id": 1,
+          "name": "pastel red",
+          "code": "#FF6262"
+        },
+        {
+          "id": 2,
+          "name": "maya blue",
+          "code": "#63C7FF"
+        },
+        {
+          "id": 3,
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "id": 4,
+          "name": "dark byzantine blue",
+          "code": "#323858"
+        },
+        {
+          "id": 5,
+          "name": "smoky black",
+          "code": "#111111"
+        }
+      ],
+      "category": ["dresses"],
+      "tags": ["women"],
+      "rating": "5",
+      "image": "https://dl.dropbox.com/s/r4lhjbptsgr14jr/05.png?dl=0",
+      "images": [
+        "https://george-fx.github.io/manero/resources/products/05.png",
+        "https://george-fx.github.io/manero/resources/products/05.png",
+        "https://george-fx.github.io/manero/resources/products/05.png"
+      ],
+      "promotion": "Take 50% off now!",
+      "isBestseller": true,
+      "isFeatured": false,
+      "isNew": true,
+      "isTop": false
+    },
+    {
+      "id": "6",
+      "name": "Summer Dress",
+      "price": 42.89,
+      "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        {
+          "id": 1,
+          "name": "pastel red",
+          "code": "#FF6262"
+        },
+        {
+          "id": 2,
+          "name": "maya blue",
+          "code": "#63C7FF"
+        },
+        {
+          "id": 3,
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "id": 4,
+          "name": "dark byzantine blue",
+          "code": "#323858"
+        },
+        {
+          "id": 5,
+          "name": "smoky black",
+          "code": "#111111"
+        }
+      ],
+      "category": ["dresses"],
+      "tags": ["women"],
+      "rating": "5",
+      "image": "https://dl.dropbox.com/s/w4p70q0h4780ljl/06.png?dl=0",
+      "images": [
+        "https://george-fx.github.io/manero/resources/products/06.png",
+        "https://george-fx.github.io/manero/resources/products/06.png",
+        "https://george-fx.github.io/manero/resources/products/06.png"
+      ],
+      "promotion": "50% off",
+      "isBestseller": false,
+      "isFeatured": true,
+      "isNew": false,
+      "isTop": true
+    },
+    {
+      "id": "7",
+      "name": "T-Shirt",
+      "price": 12.95,
+      "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        {
+          "id": 1,
+          "name": "pastel red",
+          "code": "#FF6262"
+        },
+        {
+          "id": 2,
+          "name": "maya blue",
+          "code": "#63C7FF"
+        },
+        {
+          "id": 3,
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "id": 4,
+          "name": "dark byzantine blue",
+          "code": "#323858"
+        },
+        {
+          "id": 5,
+          "name": "smoky black",
+          "code": "#111111"
+        }
+      ],
+      "category": ["t-shirts"],
+      "tags": ["t-shirts, men"],
+      "promotion": "Take 50% off now!",
+      "rating": "5",
+      "image": "https://dl.dropbox.com/s/pa7egeq106uku51/07.png?dl=0",
+      "images": [
+        "https://george-fx.github.io/manero/resources/products/07.png",
+        "https://george-fx.github.io/manero/resources/products/07.png",
+        "https://george-fx.github.io/manero/resources/products/07.png"
+      ],
+      "isBestseller": true,
+      "isFeatured": false,
+      "isNew": true,
+      "isTop": false
+    },
+    {
+      "id": "8",
+      "name": "Warm Hat",
+      "price": 6.93,
+      "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        {
+          "id": 1,
+          "name": "pastel red",
+          "code": "#FF6262"
+        },
+        {
+          "id": 2,
+          "name": "maya blue",
+          "code": "#63C7FF"
+        },
+        {
+          "id": 3,
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "id": 4,
+          "name": "dark byzantine blue",
+          "code": "#323858"
+        },
+        {
+          "id": 5,
+          "name": "smoky black",
+          "code": "#111111"
+        }
+      ],
+      "category": ["accessories"],
+      "tags": ["accessories"],
+      "rating": "5",
+      "image": "https://dl.dropbox.com/s/vvzqi4ufun5ino1/08.png?dl=0",
+      "images": [
+        "https://george-fx.github.io/manero/resources/products/08.png",
+        "https://george-fx.github.io/manero/resources/products/08.png",
+        "https://george-fx.github.io/manero/resources/products/08.png"
+      ],
+      "promotion": "50% off",
+      "isBestseller": false,
+      "isFeatured": true,
+      "isNew": false,
+      "isTop": true
+    }
+  ]
+}
