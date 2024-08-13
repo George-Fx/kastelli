@@ -72,7 +72,7 @@
       "id": 2,
       "name": "Shor summer dress",
       "price": 129.0,
-      "old_price": 150.0,
+      "oldPrice": 150.0,
       "image": "https://george-fx.github.io/kastelli/assets/products/02.jpg",
       "images": [
         "https://george-fx.github.io/kastelli/assets/products/02.jpg",
@@ -345,7 +345,7 @@
       "id": 6,
       "name": "Evening dress",
       "price": 149.9,
-      "old_price": 185.0,
+      "oldPrice": 185.0,
       "image": "https://george-fx.github.io/kastelli/assets/products/06.jpg",
       "images": [
         "https://george-fx.github.io/kastelli/assets/products/06.jpg",
@@ -550,7 +550,7 @@
       "id": 9,
       "name": "Summer beach hat",
       "price": 24.5,
-      "old_price": 38.0,
+      "oldPrice": 38.0,
       "image": "https://george-fx.github.io/kastelli/assets/products/09.jpg",
       "images": [
         "https://george-fx.github.io/kastelli/assets/products/09.jpg",
