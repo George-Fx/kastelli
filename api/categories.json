@@ -2,7 +2,7 @@
     "categories": [
         {
             "id": 1,
-            "name": "Dresses",
+            "name": "Men",
             "image": "https://george-fx.github.io/kastelli/assets/categories/01.jpg",
             "tags": [
                 "Women"
@@ -10,7 +10,7 @@
         },
         {
             "id": 2,
-            "name": "Pants",
+            "name": "Women",
             "image": "https://george-fx.github.io/kastelli/assets/categories/02.jpg",
             "tags": [
                 "Men"
@@ -18,7 +18,7 @@
         },
         {
             "id": 3,
-            "name": "Accessories",
+            "name": "Kids",
             "image": "https://george-fx.github.io/kastelli/assets/categories/03.jpg",
             "tags": [
                 "Men",
@@ -27,7 +27,7 @@
         },
         {
             "id": 4,
-            "name": "Shoes",
+            "name": "Sport",
             "image": "https://george-fx.github.io/kastelli/assets/categories/04.jpg",
             "tags": [
                 "Men"
@@ -35,7 +35,7 @@
         },
         {
             "id": 5,
-            "name": "T-shirts",
+            "name": "Accessories",
             "image": "https://george-fx.github.io/kastelli/assets/categories/05.jpg",
             "tags": [
                 "Men",
@@ -44,7 +44,7 @@
         },
         {
             "id": 6,
-            "name": "T-shirts",
+            "name": "Decor",
             "image": "https://george-fx.github.io/kastelli/assets/categories/06.jpg",
             "tags": [
                 "Men",
