@@ -31,6 +31,10 @@
         {
           "name": "opal",
           "code": "#96B8BA"
+        },
+        {
+          "name": "camel",
+          "code": "#B09765"
         }
       ],
       "tags": [
