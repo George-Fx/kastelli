@@ -35,6 +35,10 @@
         {
           "name": "camel",
           "code": "#B09765"
+        },
+        {
+          "name": "squid ink",
+          "code": "#142535"
         }
       ],
       "tags": [
