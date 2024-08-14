@@ -11,8 +11,28 @@
         "https://george-fx.github.io/kastelli/assets/products/01.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-      "colors": ["champagne", "paleCerulean", "opal", "camel", "squidInk"],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color": [
+        {
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "name": "champagne",
+          "code": "#F8E7CD"
+        }
+      ],
       "tags": [
         "kids",
         "men",
@@ -80,8 +100,21 @@
         "https://george-fx.github.io/kastelli/assets/products/02.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-      "colors": ["champagne", "paleCerulean", "opal", "camel", "squidInk"],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "champagne",
+        "paleCerulean",
+        "opal",
+        "camel",
+        "squidInk"
+      ],
       "tags": [
         "kids",
         "men",
@@ -148,8 +181,21 @@
         "https://george-fx.github.io/kastelli/assets/products/03.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-      "colors": ["champagne", "paleCerulean", "opal", "camel", "squidInk"],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "champagne",
+        "paleCerulean",
+        "opal",
+        "camel",
+        "squidInk"
+      ],
       "tags": [
         "kids",
         "men",
@@ -216,8 +262,21 @@
         "https://george-fx.github.io/kastelli/assets/products/04.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-      "colors": ["champagne", "paleCerulean", "opal", "camel", "squidInk"],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "champagne",
+        "paleCerulean",
+        "opal",
+        "camel",
+        "squidInk"
+      ],
       "tags": [
         "kids",
         "men",
@@ -284,8 +343,21 @@
         "https://george-fx.github.io/kastelli/assets/products/05.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-      "colors": ["champagne", "paleCerulean", "opal", "camel", "squidInk"],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "champagne",
+        "paleCerulean",
+        "opal",
+        "camel",
+        "squidInk"
+      ],
       "tags": [
         "kids",
         "men",
@@ -353,8 +425,21 @@
         "https://george-fx.github.io/kastelli/assets/products/06.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-      "colors": ["champagne", "paleCerulean", "opal", "camel", "squidInk"],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "champagne",
+        "paleCerulean",
+        "opal",
+        "camel",
+        "squidInk"
+      ],
       "tags": [
         "kids",
         "men",
@@ -421,8 +506,21 @@
         "https://george-fx.github.io/kastelli/assets/products/07.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-      "colors": ["champagne", "paleCerulean", "opal", "camel", "squidInk"],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "champagne",
+        "paleCerulean",
+        "opal",
+        "camel",
+        "squidInk"
+      ],
       "tags": [
         "kids",
         "men",
@@ -489,8 +587,21 @@
         "https://george-fx.github.io/kastelli/assets/products/08.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-      "colors": ["champagne", "paleCerulean", "opal", "camel", "squidInk"],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "champagne",
+        "paleCerulean",
+        "opal",
+        "camel",
+        "squidInk"
+      ],
       "tags": [
         "kids",
         "men",
@@ -558,8 +669,21 @@
         "https://george-fx.github.io/kastelli/assets/products/09.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-      "colors": ["champagne", "paleCerulean", "opal", "camel", "squidInk"],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "champagne",
+        "paleCerulean",
+        "opal",
+        "camel",
+        "squidInk"
+      ],
       "tags": [
         "kids",
         "men",
@@ -626,8 +750,21 @@
         "https://george-fx.github.io/kastelli/assets/products/10.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-      "colors": ["champagne", "paleCerulean", "opal", "camel", "squidInk"],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "champagne",
+        "paleCerulean",
+        "opal",
+        "camel",
+        "squidInk"
+      ],
       "tags": [
         "kids",
         "men",
@@ -694,7 +831,14 @@
         "https://george-fx.github.io/kastelli/assets/products/11.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
       "tags": [
         "kids",
         "men",
@@ -711,7 +855,13 @@
         "polo",
         "skirt"
       ],
-      "colors": ["champagne", "paleCerulean", "opal", "camel", "squidInk"],
+      "colors": [
+        "champagne",
+        "paleCerulean",
+        "opal",
+        "camel",
+        "squidInk"
+      ],
       "rating": 5.0,
       "isBestseller": false,
       "isFeatured": true,
@@ -762,8 +912,21 @@
         "https://george-fx.github.io/kastelli/assets/products/12.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-      "colors": ["champagne", "paleCerulean", "opal", "camel", "squidInk"],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "champagne",
+        "paleCerulean",
+        "opal",
+        "camel",
+        "squidInk"
+      ],
       "tags": [
         "kids",
         "men",
