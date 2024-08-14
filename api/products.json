@@ -116,12 +116,27 @@
         "XL",
         "XXL"
       ],
-      "colors": [
-        "champagne",
-        "paleCerulean",
-        "opal",
-        "camel",
-        "squidInk"
+      "color": [
+        {
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "name": "pale cerulean",
+          "code": "#9DC5DB"
+        },
+        {
+          "name": "opal",
+          "code": "#96B8BA"
+        },
+        {
+          "name": "camel",
+          "code": "#B09765"
+        },
+        {
+          "name": "squid ink",
+          "code": "#142535"
+        }
       ],
       "tags": [
         "kids",
@@ -197,12 +212,27 @@
         "XL",
         "XXL"
       ],
-      "colors": [
-        "champagne",
-        "paleCerulean",
-        "opal",
-        "camel",
-        "squidInk"
+      "color": [
+        {
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "name": "pale cerulean",
+          "code": "#9DC5DB"
+        },
+        {
+          "name": "opal",
+          "code": "#96B8BA"
+        },
+        {
+          "name": "camel",
+          "code": "#B09765"
+        },
+        {
+          "name": "squid ink",
+          "code": "#142535"
+        }
       ],
       "tags": [
         "kids",
@@ -278,12 +308,27 @@
         "XL",
         "XXL"
       ],
-      "colors": [
-        "champagne",
-        "paleCerulean",
-        "opal",
-        "camel",
-        "squidInk"
+      "color": [
+        {
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "name": "pale cerulean",
+          "code": "#9DC5DB"
+        },
+        {
+          "name": "opal",
+          "code": "#96B8BA"
+        },
+        {
+          "name": "camel",
+          "code": "#B09765"
+        },
+        {
+          "name": "squid ink",
+          "code": "#142535"
+        }
       ],
       "tags": [
         "kids",
@@ -359,12 +404,27 @@
         "XL",
         "XXL"
       ],
-      "colors": [
-        "champagne",
-        "paleCerulean",
-        "opal",
-        "camel",
-        "squidInk"
+      "color": [
+        {
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "name": "pale cerulean",
+          "code": "#9DC5DB"
+        },
+        {
+          "name": "opal",
+          "code": "#96B8BA"
+        },
+        {
+          "name": "camel",
+          "code": "#B09765"
+        },
+        {
+          "name": "squid ink",
+          "code": "#142535"
+        }
       ],
       "tags": [
         "kids",
@@ -441,12 +501,27 @@
         "XL",
         "XXL"
       ],
-      "colors": [
-        "champagne",
-        "paleCerulean",
-        "opal",
-        "camel",
-        "squidInk"
+      "color": [
+        {
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "name": "pale cerulean",
+          "code": "#9DC5DB"
+        },
+        {
+          "name": "opal",
+          "code": "#96B8BA"
+        },
+        {
+          "name": "camel",
+          "code": "#B09765"
+        },
+        {
+          "name": "squid ink",
+          "code": "#142535"
+        }
       ],
       "tags": [
         "kids",
@@ -522,12 +597,27 @@
         "XL",
         "XXL"
       ],
-      "colors": [
-        "champagne",
-        "paleCerulean",
-        "opal",
-        "camel",
-        "squidInk"
+      "color": [
+        {
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "name": "pale cerulean",
+          "code": "#9DC5DB"
+        },
+        {
+          "name": "opal",
+          "code": "#96B8BA"
+        },
+        {
+          "name": "camel",
+          "code": "#B09765"
+        },
+        {
+          "name": "squid ink",
+          "code": "#142535"
+        }
       ],
       "tags": [
         "kids",
@@ -603,12 +693,27 @@
         "XL",
         "XXL"
       ],
-      "colors": [
-        "champagne",
-        "paleCerulean",
-        "opal",
-        "camel",
-        "squidInk"
+      "color": [
+        {
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "name": "pale cerulean",
+          "code": "#9DC5DB"
+        },
+        {
+          "name": "opal",
+          "code": "#96B8BA"
+        },
+        {
+          "name": "camel",
+          "code": "#B09765"
+        },
+        {
+          "name": "squid ink",
+          "code": "#142535"
+        }
       ],
       "tags": [
         "kids",
@@ -685,12 +790,27 @@
         "XL",
         "XXL"
       ],
-      "colors": [
-        "champagne",
-        "paleCerulean",
-        "opal",
-        "camel",
-        "squidInk"
+      "color": [
+        {
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "name": "pale cerulean",
+          "code": "#9DC5DB"
+        },
+        {
+          "name": "opal",
+          "code": "#96B8BA"
+        },
+        {
+          "name": "camel",
+          "code": "#B09765"
+        },
+        {
+          "name": "squid ink",
+          "code": "#142535"
+        }
       ],
       "tags": [
         "kids",
@@ -766,12 +886,27 @@
         "XL",
         "XXL"
       ],
-      "colors": [
-        "champagne",
-        "paleCerulean",
-        "opal",
-        "camel",
-        "squidInk"
+      "color": [
+        {
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "name": "pale cerulean",
+          "code": "#9DC5DB"
+        },
+        {
+          "name": "opal",
+          "code": "#96B8BA"
+        },
+        {
+          "name": "camel",
+          "code": "#B09765"
+        },
+        {
+          "name": "squid ink",
+          "code": "#142535"
+        }
       ],
       "tags": [
         "kids",
@@ -863,12 +998,27 @@
         "polo",
         "skirt"
       ],
-      "colors": [
-        "champagne",
-        "paleCerulean",
-        "opal",
-        "camel",
-        "squidInk"
+      "color": [
+        {
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "name": "pale cerulean",
+          "code": "#9DC5DB"
+        },
+        {
+          "name": "opal",
+          "code": "#96B8BA"
+        },
+        {
+          "name": "camel",
+          "code": "#B09765"
+        },
+        {
+          "name": "squid ink",
+          "code": "#142535"
+        }
       ],
       "rating": 5.0,
       "isBestseller": false,
@@ -928,12 +1078,27 @@
         "XL",
         "XXL"
       ],
-      "colors": [
-        "champagne",
-        "paleCerulean",
-        "opal",
-        "camel",
-        "squidInk"
+      "color": [
+        {
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "name": "pale cerulean",
+          "code": "#9DC5DB"
+        },
+        {
+          "name": "opal",
+          "code": "#96B8BA"
+        },
+        {
+          "name": "camel",
+          "code": "#B09765"
+        },
+        {
+          "name": "squid ink",
+          "code": "#142535"
+        }
       ],
       "tags": [
         "kids",
