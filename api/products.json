@@ -49,7 +49,7 @@
       "tags": [
         "accessories"
       ],
-      "rating": 5.0,
+      "rating": "5,0",
       "isBestseller": true,
       "isFeatured": false,
       "isSale": false,
@@ -138,7 +138,7 @@
       "tags": [
         "dresses"
       ],
-      "rating": 5.0,
+      "rating": "5,0",
       "isBestseller": true,
       "isFeatured": false,
       "isSale": true,
@@ -226,7 +226,7 @@
       "tags": [
         "dresses"
       ],
-      "rating": 5.0,
+      "rating": "5,0",
       "isBestseller": true,
       "isFeatured": false,
       "isSale": false,
@@ -314,7 +314,7 @@
       "tags": [
         "dresses"
       ],
-      "rating": 5.0,
+      "rating": "5,0",
       "isBestseller": true,
       "isFeatured": false,
       "isSale": true,
@@ -397,7 +397,7 @@
       "tags": [
         "women"
       ],
-      "rating": 5.0,
+      "rating": "5,0",
       "isBestseller": true,
       "isFeatured": false,
       "isSale": false,
@@ -481,7 +481,7 @@
       "tags": [
         "dresses"
       ],
-      "rating": 5.0,
+      "rating": "5,0",
       "isBestseller": true,
       "isFeatured": false,
       "isSale": true,
@@ -569,7 +569,7 @@
       "tags": [
         "t-shirts"
       ],
-      "rating": 5.0,
+      "rating": "5,0",
       "isBestseller": false,
       "isFeatured": true,
       "isSale": false,
@@ -657,7 +657,7 @@
       "tags": [
         "accessories"
       ],
-      "rating": 5.0,
+      "rating": "5,0",
       "isBestseller": false,
       "isFeatured": true,
       "isSale": false,
@@ -746,7 +746,7 @@
       "tags": [
         "accessories"
       ],
-      "rating": 5.0,
+      "rating": "5,0",
       "isBestseller": false,
       "isFeatured": true,
       "isSale": true,
@@ -834,7 +834,7 @@
       "tags": [
         "accessories"
       ],
-      "rating": 5.0,
+      "rating": "5,0",
       "isBestseller": false,
       "isFeatured": true,
       "isSale": false,
@@ -923,7 +923,7 @@
           "code": "#142535"
         }
       ],
-      "rating": 5.0,
+      "rating": "5,0",
       "isBestseller": false,
       "isFeatured": true,
       "isSale": false,
@@ -1011,7 +1011,7 @@
       "tags": [
         "shoes"
       ],
-      "rating": 5.0,
+      "rating": "5,0",
       "isBestseller": false,
       "isFeatured": true,
       "isSale": false,
